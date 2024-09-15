@@ -45,10 +45,10 @@ Once the script is deployed and a form response is submitted:
 
 ## Example
 
-| Auto Number  | Name            | Ticket ID  | Status    | Food Preference |
-|--------------|-----------------|------------|-----------|-----------------|
-| THMFOOD001   | John Doe        | 123456     | Verified  | Vegan           |
-| THMFOOD002   | Jane Smith      | 789012     | Verified  | Non-Vegetarian  |
+| Auto Number  | Name            |
+|--------------|-----------------|
+| THMFOOD001   | John Doe        |
+| THMFOOD002   | Jane Smith      |
 
 ## Usage
 
