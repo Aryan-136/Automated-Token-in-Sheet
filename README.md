@@ -62,5 +62,3 @@ This project can be used for:
 This project is licensed under the MIT License - see the [LICENSE](link-to-license-file) file for details.
 
 ---
-
-This README will provide a clear explanation of the project, installation, usage, and how it works. Be sure to replace placeholder links (`link-to-script-file`, etc.) with actual links to your project files.
