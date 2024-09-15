@@ -24,7 +24,7 @@ This Google Apps Script automatically assigns unique tokens (IDs) to form respon
 - In Google Sheets, navigate to `Extensions` > `Apps Script`. This will open the Apps Script editor.
 
 ### 3. Add the Script
-- Copy the code from [token-generator.js](link-to-script-file) and paste it into the Apps Script editor.
+- Copy the code from [token-generator.js](Code.gs) and paste it into the Apps Script editor.
 
 ### 4. Save the Script
 - Save the script with a name, such as `Token Generator`.
